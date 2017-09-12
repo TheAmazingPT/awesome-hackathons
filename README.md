@@ -17,39 +17,6 @@ For more informations on how to contribute in open source projects, visit https:
 ## Months of 2017
 [September](#september), [October](#october), [November](#november), [December](#december)
 
-
-#### January
-Date | Location | Entry Fee | Link
----- | -------- | --------- | ----
-
-#### February
-Date | Location | Entry Fee | Link
----- | -------- | --------- | ----
-
-#### March
-Date | Location | Entry Fee | Link
----- | -------- | --------- | ----
-
-#### April
-Date | Location | Entry Fee | Link
----- | -------- | --------- | ----
-
-#### May
-Date | Location | Entry Fee | Link
----- | -------- | --------- | ----
-
-#### June
-Date | Location | Entry Fee | Link
----- | -------- | --------- | ----
-
-#### July
-Date | Location | Entry Fee | Link
----- | -------- | --------- | ----
-
-#### August
-Date | Location | Entry Fee | Link
----- | -------- | --------- | ----
-
 #### September
 Date | Location | Entry Fee | Link
 ---- | -------- | --------- | ----
