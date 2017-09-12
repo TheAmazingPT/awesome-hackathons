@@ -11,8 +11,11 @@ Do you know a hackathon, which is not listed here? Just open a pull request and 
 Please take a look at our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines and rules.
 For more informations on how to contribute in open source projects, visit https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github.
 
-## Months
-[January](#january), [February](#february), [March](#march), [April](#april), [May](#may), [June](#june), [July](#july), [August](#august), [September](#september), [October](#october), [November](#november), [December](#december)
+## Years
+[2017](2017.md), [2018](2018.md)
+
+## Months of 2017
+[September](#september), [October](#october), [November](#november), [December](#december)
 
 
 #### January
