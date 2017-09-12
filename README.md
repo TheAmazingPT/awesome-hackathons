@@ -8,7 +8,7 @@ A curated list of hackathons all over the globe.
 ## Contribute!
 Do you know a hackathon, which is not listed here? Just open a pull request and help to enrich the list!
 
-Please take a look at our [CONTRIBUTING.md](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md) file for guidelines and rules.
+Please take a look at our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines and rules.
 For more informations on how to contribute in open source projects, visit https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github.
 
 ## Months
