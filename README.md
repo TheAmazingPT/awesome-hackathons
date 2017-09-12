@@ -54,7 +54,6 @@ Date | Location | Entry Fee | Link
 Date | Location | Entry Fee | Link
 ---- | -------- | --------- | ----
 22.09. | Germany, Hamburg | 15 Euro | [Mobility Hackathon](http://mobility-hackathon.de/)
-22.09. | Germany, Munich | Free | [Mobility Hackathon](http://mobility-hackathon.de/)
 
 #### October
 Date | Location | Entry Fee | Link
