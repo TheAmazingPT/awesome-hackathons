@@ -20,11 +20,15 @@ For more informations on how to contribute in open source projects, visit https:
 #### September
 Date | Location | Entry Fee | Link
 ---- | -------- | --------- | ----
-22.09. | Germany, Hamburg | 15 Euro | [Mobility Hackathon](http://mobility-hackathon.de/)
+September 9th - 10th | USA, San Francisco | n/a | [Satori Live Data Hackathon](http://livedatahack.com/)
+September 22nd - 23rd | Germany, Hamburg | 15 Euro* | [Mobility Hackathon](http://mobility-hackathon.de/)
 
 #### October
 Date | Location | Entry Fee | Link
 ---- | -------- | --------- | ----
+October 7-8 | Iceland, Reykjavík | 10 USD | [Iceland Data Hack – Let’s Get Personal](https://www.digi.me/datahackiceland)
+October 9th | Internet | Free | [Unchain the Frame](http://unchaintheframe.com/)
+October 21st | USA, Las Vegas | 10 USD | [Money20/20 Hackathon](https://www.eventbrite.com/e/money2020-hackathon-tickets-36736623229)
 
 #### November
 Date | Location | Entry Fee | Link
@@ -34,6 +38,8 @@ Date | Location | Entry Fee | Link
 Date | Location | Entry Fee | Link
 ---- | -------- | --------- | ----
 
-## License
+## Footnotes
+* = You get the fee back, once you showed up at the event
 
+## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
